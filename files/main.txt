@@ -1,3 +1,4 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Xscripts-official/EggRefresher/refs/heads/main/eggswapper"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xscripts-official/GaG/refs/heads/main/SetMutation"))()
 local Spawner = loadstring(game:HttpGet("https://gitlab.com/darkiedarkie/dark/-/raw/main/Spawner.lua"))()
 Spawner.Load()
